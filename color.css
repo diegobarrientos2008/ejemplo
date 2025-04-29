@@ -1,4 +1,36 @@
 body{
     background-color: rgb(59, 243, 142);
 }
-titulo{color: #ee4b0b;}
+.titulo{
+    color: #ee4b0b;
+}
+.nombre {
+    color: blue;
+}
+.nombre { margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 250px;
+    border-top: 8px black solid;
+    border-right: 10px red dashed;
+    border-bottom: 8px blue double ;
+    border-left: 10px red dotted;
+    padding-top: 50px ;
+    padding-bottom:50px ;
+    padding-right: 50px;
+    padding-left:50px ;
+}
+.productos { color: blueviolet;
+margin-top:100px ;
+margin-left: 150px;
+margin-bottom: 250px;
+border-top: 8px black solid;
+border-right: 10px red dashed ;
+border-bottom:8px blue double ;
+border-left:10px red dotted;
+padding-top: 50px ;
+padding-bottom:50px ;
+padding-right:50px ;
+padding-left:50px ;
+
+}
