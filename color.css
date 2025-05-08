@@ -34,3 +34,23 @@ padding-right:50px ;
 padding-left:50px ;
 
 }
+.parrafouno{ 
+    color: blue;
+    font-size: 36px;
+    text-align: right;
+}
+.parrafodos{
+color: rgb(215, 236, 27);
+font-size: 40px;
+text-align: center;
+}
+.parrafotres{
+color: #ee0bbd;
+font-size: 40px;
+text-align: left;
+}
+.parrafocuatro{
+color: rgb(221, 24, 34);
+font-size: 36px;
+text-align: justify;
+}
